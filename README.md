@@ -1,1 +1,4 @@
-# Studi_Kasus_3_Muhammad_Sholahuddin_Sanjaya
+Nama: Muhammad Sholahuddin Sanjaya
+
+NIM:2609116048
+
