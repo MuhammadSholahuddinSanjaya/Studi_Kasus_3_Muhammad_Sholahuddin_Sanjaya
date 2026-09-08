@@ -14,7 +14,7 @@ untuk penggunaan tuple ada pada variabel batas nilai yang sifatnya tidak dapat d
 
 untuk jenis looping yang saya gunakan adalah while karena dalam studi kasus
 
-data yang diinputkan tidak diketahui jumlah pastinyab dan dapat berubah ubah
+data yang diinputkan tidak diketahui jumlah pastinya dan dapat berubah ubah
 
 dan jenis loop while cocok digunakan untuk studi kasus
 
@@ -23,6 +23,16 @@ jika ingin menyelesaikan proses input harus ketik kata perintah selesai
 yaitu: ada 5 data yang diinput, 1 mahasiswa lulus, 1 mahasiswa remedi
 
 jika 3 dari syarat tersebut tidak dilakukan maka perintah selesai tidak akan bisa berjalan
+
+untuk proses hapus data sendiri dapat dijalankan melalui perintah hapus 
+
+saat perintah hapus dijalankan user akan bisa memilih nilai yang perlu dihapus
+
+seperti pada gambar saya memilih menghapus nilai 30, ketika saya mengetik data tersebut
+
+dan memberi perintah untuk hapus maka data tersebut akan dihapus 
+
+data tersebut dapat diganti dengan data yang lebih valid.
 
 berikut adalah hasil output dari studi kasus yang saya kerjakan
 
